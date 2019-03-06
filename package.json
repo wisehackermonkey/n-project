@@ -1,0 +1,30 @@
+{
+  "name": "n-project",
+  "version": "0.0.1",
+  "description": "joke project where main every package has to start with the letter 'n'",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wisehackermonkey/n-project.git"
+  },
+  "keywords": [
+    "joke",
+    "project",
+    "start",
+    "letter",
+    "n",
+    "package"
+  ],
+  "author": "wisemonkey <oranbusiness@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisehackermonkey/n-project/issues"
+  },
+  "homepage": "https://github.com/wisehackermonkey/n-project#readme",
+  "dependencies": {
+    "nserver": "0.0.0-1"
+  }
+}
